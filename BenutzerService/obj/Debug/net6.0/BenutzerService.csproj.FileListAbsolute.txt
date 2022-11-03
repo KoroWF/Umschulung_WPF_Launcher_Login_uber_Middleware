@@ -1,0 +1,153 @@
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.Development.json
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.json
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.exe
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.deps.json
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.runtimeconfig.json
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.pdb
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.AssemblyReference.cache
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.GeneratedMSBuildEditorConfig.editorconfig
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfoInputs.cache
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfo.cs
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CoreCompileInputs.cache
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.MvcApplicationPartsAssemblyInfo.cache
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.build.json
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.development.json
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\scopedcss\bundle\BenutzerService.styles.css
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\refint\BenutzerService.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.pdb
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.genruntimeconfig.cache
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\ref\BenutzerService.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Humanizer.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+R:\Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CopyComplete
+R:\Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Benutzerdaten.db
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.Development.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.exe
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Benutzerdaten.db
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.deps.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.runtimeconfig.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.pdb
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Humanizer.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.AssemblyReference.cache
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfoInputs.cache
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfo.cs
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CoreCompileInputs.cache
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.MvcApplicationPartsAssemblyInfo.cache
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.build.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.development.json
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\scopedcss\bundle\BenutzerService.styles.css
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CopyComplete
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\refint\BenutzerService.dll
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.pdb
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.genruntimeconfig.cache
+F:\Schulung robotron Projekt Dresden\BenutzerService\BenutzerService\obj\Debug\net6.0\ref\BenutzerService.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\appsettings.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.exe
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Benutzerdaten.db
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.deps.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.runtimeconfig.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\BenutzerService.pdb
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.AssemblyReference.cache
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfoInputs.cache
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.AssemblyInfo.cs
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CoreCompileInputs.cache
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\scopedcss\bundle\BenutzerService.styles.css
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.csproj.CopyComplete
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\refint\BenutzerService.dll
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.pdb
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\BenutzerService.genruntimeconfig.cache
+C:\Users\geierT\OneDrive - Robotron Bildungs GmbH\34. C# Projektwochen - Herr Pflugbeil\BenutzerService\BenutzerService\obj\Debug\net6.0\ref\BenutzerService.dll
