@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{D001B143-8924-4CEF-B89F-AB875F44BEB3}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Model", "..\..\BenutzerService\Model\Model.shproj", "{913AEE4E-9C1F-4120-8DB9-0253238E8B75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenutzerService", "..\..\BenutzerService\BenutzerService\BenutzerService.csproj", "{C4BDBCAD-8BB4-4905-BD2D-2B6F82A4E186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D001B143-8924-4CEF-B89F-AB875F44BEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D001B143-8924-4CEF-B89F-AB875F44BEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D001B143-8924-4CEF-B89F-AB875F44BEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D001B143-8924-4CEF-B89F-AB875F44BEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BDBCAD-8BB4-4905-BD2D-2B6F82A4E186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BDBCAD-8BB4-4905-BD2D-2B6F82A4E186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BDBCAD-8BB4-4905-BD2D-2B6F82A4E186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BDBCAD-8BB4-4905-BD2D-2B6F82A4E186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3316CBAD-9723-4DE3-A2BE-2209A2B0BA7F}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\BenutzerService\Model\Model.projitems*{913aee4e-9c1f-4120-8db9-0253238e8b75}*SharedItemsImports = 13
+		..\..\BenutzerService\Model\Model.projitems*{c4bdbcad-8bb4-4905-bd2d-2b6f82a4e186}*SharedItemsImports = 5
+		..\..\BenutzerService\Model\Model.projitems*{d001b143-8924-4cef-b89f-ab875f44beb3}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal

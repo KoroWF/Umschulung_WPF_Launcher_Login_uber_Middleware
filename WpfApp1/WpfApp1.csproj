@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="392-3928798_logo-point-blank-garena-png-logo-garena-free.jpg" />
+    <None Remove="background.png" />
+    <None Remove="beach-sunset.jpeg" />
+    <None Remove="binance-usd-busd-logo.png" />
+    <None Remove="e4a28fbe435eaa00fe28599b79505453.jpg" />
+    <None Remove="firmenlogo.jpg" />
+    <None Remove="footer.png" />
+    <None Remove="Header.png" />
+    <None Remove="kisspng-royalty-free-logo-graphic-design-5b1ed0ea40c1c4.1858851715287462182653.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="392-3928798_logo-point-blank-garena-png-logo-garena-free.jpg" />
+    <Resource Include="background.png" />
+    <Resource Include="beach-sunset.jpeg" />
+    <Resource Include="binance-usd-busd-logo.png" />
+    <Resource Include="e4a28fbe435eaa00fe28599b79505453.jpg" />
+    <Resource Include="firmenlogo.jpg" />
+    <Resource Include="footer.png" />
+    <Resource Include="Header.png" />
+    <Resource Include="kisspng-royalty-free-logo-graphic-design-5b1ed0ea40c1c4.1858851715287462182653.png" />
+  </ItemGroup>
+
+  <Import Project="..\..\..\BenutzerService\Model\Model.projitems" Label="Shared" />
+
+</Project>
